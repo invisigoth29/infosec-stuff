@@ -63,6 +63,9 @@ https://github.com/bishopfox/eyeballer
 
 https://resources.bishopfox.com/resources/tools/google-hacking-diggity/
 
+https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#readme
+
+
 # 💻 Threat Intel & Vuln Assessments 💻
 
 https://github.com/azmatt
