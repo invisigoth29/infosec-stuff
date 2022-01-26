@@ -33,7 +33,7 @@ https://github.com/six2dez/reconftw
 
 https://github.com/hackerspider1/EchoPwn
 
-https://github.com/j3ssie/Osmedeus]
+https://github.com/j3ssie/Osmedeus
 
 https://github.com/kaonashi-passwords/Kaonashi
 
