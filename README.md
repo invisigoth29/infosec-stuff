@@ -102,3 +102,5 @@ https://github.com/ukncsc
 
 https://github.com/nccgroup/nmap-nse-vulnerability-scripts
 
+https://github.com/commjoen/wrongsecrets?mc_cid=464c694316&mc_eid=4e3ef757bb
+
