@@ -29,6 +29,8 @@ https://www.thexifer.net/
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/Z4nzu/hackingtool
+
 https://github.com/six2dez/reconftw
 
 https://github.com/hackerspider1/EchoPwn
