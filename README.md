@@ -2,6 +2,8 @@
 Collection of infosec resources based on dicipline
 # 🔍 OSINT Links 🔎
 
+https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h8mail
+
 https://en.whotwi.com/
 
 https://bgp.he.net
@@ -28,6 +30,10 @@ https://www.thexifer.net/
 
 
 # ⚔️ Offensive Ops ⚔️
+
+https://github.com/KingOfBugbounty/KingOfBugBountyTips/
+
+https://github.com/Z4nzu/hackingtool
 
 https://github.com/Z4nzu/hackingtool
 
