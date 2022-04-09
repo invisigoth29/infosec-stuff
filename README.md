@@ -4,6 +4,8 @@ Collection of infosec resources based on dicipline
 
 https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h8mail
 
+https://www.hackers-arise.com/post/2019/05/28/osint-part-3-extracting-employee-names-from-companies-tesla-and-breitbart-on-linkedin
+
 https://en.whotwi.com/
 
 https://bgp.he.net
