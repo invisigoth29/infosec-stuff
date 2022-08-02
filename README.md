@@ -8,6 +8,10 @@ https://www.hackers-arise.com/post/2019/05/28/osint-part-3-extracting-employee-n
 
 https://en.whotwi.com/
 
+https://www.hackers-arise.com/post/cryptography-basics-for-hackers-part-2-hashes-and-hashing
+
+https://github.com/m3n0sd0n4ld/uDork
+
 https://bgp.he.net
 
 http://theherdlocker.com
@@ -32,8 +36,32 @@ https://www.thexifer.net/
 
 https://github.com/j3ssie/metabigor
 
+https://osint.link
+
+https://github.com/alpkeskin/mosint
+
 
 # ⚔️ Offensive Ops ⚔️
+
+https://github.com/mishakorzik/Free-Proxy
+
+https://github.com/TheSpeedX/PROXY-List
+
+https://fasthashcat.com
+
+https://www.onlinehashcrack.com
+
+https://github.com/c6fc/npk (distributed hash cracking)
+
+https://github.com/mishakorzik/AllHackingTools
+
+https://github.com/sh377c0d3/Payloads
+
+https://github.com/onurgule/S4S-Scanner
+
+https://github.com/netsniff-ng/netsniff-ng
+
+https://github.com/OWASP/Nettacker
 
 https://github.com/KingOfBugbounty/KingOfBugBountyTips/
 
@@ -81,6 +109,10 @@ https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#rea
 # 💻 Threat Intel & Vuln Assessments 💻
 
 https://github.com/azmatt
+
+https://netlas.io
+
+https://github.com/h33tlit/Jbin-website-secret-scraper
 
 https://github.com/cisagov/Malcolm
 
