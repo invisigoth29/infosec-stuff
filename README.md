@@ -30,6 +30,8 @@ https://github.com/sinwindie/OSINT
 
 https://www.thexifer.net/
 
+https://github.com/j3ssie/metabigor
+
 
 # ⚔️ Offensive Ops ⚔️
 
