@@ -110,6 +110,8 @@ https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#rea
 
 # 💻 Threat Intel & Vuln Assessments 💻
 
+https://github.com/s0md3v/Smap
+
 https://github.com/azmatt
 
 https://netlas.io
