@@ -43,6 +43,14 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/gh0x0st/Buffer_Overflow
+
+https://github.com/21y4d/nmapAutomator
+
+https://tryhackme.com/room/bufferoverflowprep
+
+https://robertscocca.medium.com/%EF%B8%8F%EF%B8%8F-rce-to-shell-techniques-696e55b23fee
+
 https://www.hackingarticles.in
 
 https://book.hacktricks.xyz/welcome/readme
