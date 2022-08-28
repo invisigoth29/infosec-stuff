@@ -43,6 +43,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://book.hacktricks.xyz/welcome/readme
+
 https://github.com/s0md3v/XSStrike
 
 https://github.com/mishakorzik/Free-Proxy
