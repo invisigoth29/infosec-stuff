@@ -43,6 +43,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/hakluke/hakscale
+
 https://github.com/BishopFox/sliver
 
 https://github.com/gh0x0st/Buffer_Overflow
