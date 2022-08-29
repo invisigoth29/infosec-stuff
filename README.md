@@ -124,6 +124,8 @@ https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#rea
 
 # 💻 Threat Intel & Vuln Assessments 💻
 
+https://github.com/BishopFox/smogcloud
+
 https://github.com/OJ/gobuster
 
 https://github.com/s0md3v/ote
