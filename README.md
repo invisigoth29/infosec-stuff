@@ -43,6 +43,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/BishopFox/sliver
+
 https://github.com/gh0x0st/Buffer_Overflow
 
 https://github.com/21y4d/nmapAutomator
