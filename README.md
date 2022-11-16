@@ -1,6 +1,12 @@
 # infosec-stuff
 Collection of infosec resources based on dicipline
+
 # 🔍 OSINT Links 🔎
+https://github.com/TebbaaX/Katana
+
+https://github.com/p1ngul1n0/blackbird
+
+https://github.com/pirxthepilot/wtfis
 
 https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h8mail
 
@@ -42,6 +48,18 @@ https://github.com/alpkeskin/mosint
 
 
 # ⚔️ Offensive Ops ⚔️
+
+https://github.com/SaumyajeetDas/GodGenesis
+
+https://www.kitploit.com/?m=1
+
+https://github.com/t3l3machus/eviltree
+
+https://github.com/BishopFox/cloudfox
+
+https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
+
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 https://github.com/hakluke/hakscale
 
@@ -125,6 +143,8 @@ https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#rea
 
 
 # 💻 Threat Intel & Vuln Assessments 💻
+
+https://github.com/We5ter/Scanners-Box
 
 https://github.com/BishopFox/smogcloud
 
