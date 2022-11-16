@@ -49,6 +49,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://ducktoolkit.com
+
 https://github.com/SaumyajeetDas/GodGenesis
 
 https://www.kitploit.com/?m=1
