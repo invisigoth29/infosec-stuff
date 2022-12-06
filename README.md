@@ -105,8 +105,6 @@ https://github.com/KingOfBugbounty/KingOfBugBountyTips/
 
 https://github.com/Z4nzu/hackingtool
 
-https://github.com/Z4nzu/hackingtool
-
 https://github.com/six2dez/reconftw
 
 https://github.com/hackerspider1/EchoPwn
@@ -144,9 +142,12 @@ https://resources.bishopfox.com/resources/tools/google-hacking-diggity/
 https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#readme
 
 
+
 # 💻 Threat Intel & Vuln Assessments 💻
 
 https://github.com/We5ter/Scanners-Box
+
+https://github.com/deepfence/ThreatMapper
 
 https://github.com/BishopFox/smogcloud
 
