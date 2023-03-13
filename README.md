@@ -49,6 +49,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/stamparm/DSXS
+
 https://github.com/NeverWonderLand/tellme
 
 https://github.com/Ciphey/Ciphey
