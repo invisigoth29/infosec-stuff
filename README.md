@@ -49,6 +49,18 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/NeverWonderLand/tellme
+
+https://github.com/Ciphey/Ciphey
+
+https://github.com/aaaguirrep/offensive-docker
+
+https://github.com/scrapy/scrapy
+
+https://github.com/enaqx/awesome-pentest
+
+https://github.com/rozgo/anevicon
+
 https://ducktoolkit.com
 
 https://github.com/SaumyajeetDas/GodGenesis
