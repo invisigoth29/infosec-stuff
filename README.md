@@ -49,6 +49,8 @@ https://github.com/alpkeskin/mosint
 
 # ⚔️ Offensive Ops ⚔️
 
+https://github.com/jiep/offensive-ai-compilation
+
 https://hackertarget.com/tcpdump-examples/
 
 https://github.com/stamparm/DSXS
