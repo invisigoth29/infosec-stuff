@@ -2,6 +2,9 @@
 Collection of infosec resources based on dicipline
 
 # 🔍 OSINT Links 🔎
+
+https://github.com/NeverWonderLand/wildcrawl
+
 https://github.com/TebbaaX/Katana
 
 https://github.com/p1ngul1n0/blackbird
