@@ -3,6 +3,8 @@ Collection of infosec resources based on dicipline
 
 # 🔍 OSINT Links 🔎
 
+https://github.com/projectdiscovery/uncover
+
 https://github.com/z0m31en7/Uscrapper
 
 https://github.com/NeverWonderLand/wildcrawl
