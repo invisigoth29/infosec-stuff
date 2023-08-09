@@ -172,6 +172,8 @@ https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables#rea
 
 # 💻 Threat Intel & Vuln Assessments 💻
 
+https://github.com/DarkNetEye/tor-links
+
 https://github.com/fyoorer/ShadowClone
 
 https://github.com/We5ter/Scanners-Box
